@@ -88,6 +88,20 @@ Topics Selected: 3
 
 *Note: Actual results may vary depending on the algorithm selected.*
 
+For better representations:
+
+| *Screenshot of the web user interface* |
+|:--:| 
+| ![image](images/1_sample_user_inferface.png) |
+
+| *Screenshot of study plan using uploaded CSV data* |
+|:--:| 
+| ![image](images/2_sample_planning_csv_data.png) |
+
+| *Screenshot of study plan using example data* |
+|:--:| 
+| ![image](images/3_sample_planning_example_data.png) |
+
 ## References
 
 1. Martello, S., & Toth, P. (1990). *Knapsack Problems: Algorithms and Computer Implementations*. John Wiley & Sons.
