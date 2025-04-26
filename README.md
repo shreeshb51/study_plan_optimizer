@@ -15,6 +15,7 @@ Study Plan Optimizer is a web application that helps students optimize their stu
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Data Source](#data-source)
+- [Note](#note)
 
 ## Installation
 
@@ -160,3 +161,8 @@ The example data provided in the application is fictional and created for demons
   - `Module`: Name of the study topic
   - `Cost`: Time required (in hours)
   - `Value`: Importance/value of the topic
+
+## Note
+| AI was used to generate most of the docstrings and inline comments in the code. |
+|:--:|
+
