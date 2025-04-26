@@ -165,4 +165,3 @@ The example data provided in the application is fictional and created for demons
 ## Note
 | AI was used to generate most of the docstrings and inline comments in the code. |
 |:--:|
-
