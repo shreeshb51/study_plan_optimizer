@@ -1,9 +1,11 @@
 # Study Plan Optimizer
 
 ## Project Description
+
 Study Plan Optimizer is a web application that helps students optimize their study time allocation for maximum value as a 0-1 Knapsack Problem. By utilizing different optimizing algorithms: **Dynamic Programming, Branch and Bound, Greedy Algorithm**, the application recommends the most efficient study plan based on the available time and the relative value of different study topics.
 
 ## Table of Contents
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
@@ -16,6 +18,8 @@ Study Plan Optimizer is a web application that helps students optimize their stu
 - [Acknowledgments](#acknowledgments)
 - [Data Source](#data-source)
 - [Note](#note)
+
+---
 
 ## Installation
 
@@ -163,5 +167,6 @@ The example data provided in the application is fictional and created for demons
   - `Value`: Importance/value of the topic
 
 ## Note
+
 | AI was used to generate most of the docstrings and inline comments in the code. |
 |:--:|
