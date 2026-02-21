@@ -152,7 +152,7 @@ The core optimization problem is formulated as a 0-1 Knapsack Problem, a combina
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
